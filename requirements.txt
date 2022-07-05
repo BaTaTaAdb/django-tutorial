@@ -1,0 +1,4 @@
+asgiref==3.5.2
+-e git+https://github.com/BaTaTaAdb/django.git@73766c118781a7f7052bf0a5fbee38b944964e31#egg=Django
+sqlparse==0.4.2
+tzdata==2022.1
