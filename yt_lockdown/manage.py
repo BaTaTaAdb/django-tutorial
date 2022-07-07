@@ -3,6 +3,8 @@
 import os
 import sys
 
+os.environ['ANSICON'] = 'on'
+
 
 def main():
     """Run administrative tasks."""
